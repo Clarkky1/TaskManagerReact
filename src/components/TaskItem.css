@@ -1,0 +1,21 @@
+.task-item {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+}
+
+.badge {
+  padding: 5px 10px;
+  border-radius: 3px;
+  color: #fff;
+  margin-left: 10px;
+}
+
+.completed {
+  background-color: green;
+}
+
+.pending {
+  background-color: red;
+}
